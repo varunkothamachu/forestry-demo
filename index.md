@@ -10,10 +10,7 @@ services:
   description: ''
   icon: ''
 sub_heading: Institute of BioEngineering
-textline: |-
-  University of Edinburgh
-
-  Edinburgh
+textline: University of Edinburgh
 hero_button:
   text: Learn more
   href: "/about"
