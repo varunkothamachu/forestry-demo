@@ -8,7 +8,7 @@ partners:
 services:
 - heading: Research
   description: ''
-  icon: ''
+  icon: "/uploads/2018/08/02/Cosy_bio.png"
 sub_heading: Institute of BioEngineering
 textline: University of Edinburgh
 hero_button:
