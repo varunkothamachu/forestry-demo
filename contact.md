@@ -16,5 +16,3 @@ menu:
 University of Edinburgh 
 
 ## Contact Information
-
-{% include address.html %}
